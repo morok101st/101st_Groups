@@ -3,7 +3,7 @@ GameProject {
  GUID "6564AC7153DDFE88"
  TITLE "101st_Groups"
  Dependencies {
-  "58D0FB3206B6F859" "5B0D1E4380971EBD"
+  "58D0FB3206B6F859" "5B0D1E4380971EBD" "64F0EB575E3F64E2"
  }
  Configurations {
   GameProjectConfig PC {
