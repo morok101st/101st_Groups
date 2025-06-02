@@ -1,0 +1,22 @@
+GameProject {
+ ID "101stGroups"
+ GUID "6564AC7153DDFE88"
+ TITLE "101st_Groups"
+ Dependencies {
+  "58D0FB3206B6F859" "5B0D1E4380971EBD"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
